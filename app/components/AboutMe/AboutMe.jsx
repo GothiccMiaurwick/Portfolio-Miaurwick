@@ -57,7 +57,7 @@ export default function AboutMe() {
                 <p className="text-base md:text-lg leading-loose text-[#6c5353]">
                   See me on{" "}
                   <a 
-                    href="https://github.com/miaurwick" 
+                    href="https://github.com/GothiccMiaurwick" 
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-block px-3 py-1 rounded-md font-semibold bg-[#e8dcff] text-[#7c3aed] hover:scale-105 transition-transform"
@@ -75,7 +75,7 @@ export default function AboutMe() {
                   </a>
                   {" "}or{" "}
                   <a 
-                    href="https://linkedin.com/in/miaurwick" 
+                    href="https://www.linkedin.com/in/juan-sebastian-soler-%C3%A1vila-071002300/" 
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-block px-3 py-1 rounded-md font-semibold bg-[#ffd4e8d5] text-[#ff0077] hover:scale-105 transition-transform"
