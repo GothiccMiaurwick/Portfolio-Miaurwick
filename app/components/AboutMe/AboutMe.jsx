@@ -13,7 +13,7 @@ const fredoka = Fredoka({
 
 export default function AboutMe() {
   return (
-    <section className={`${inter.className} bg-[#fef7ed] py-20 px-6`}>
+    <section id="about" className={`${inter.className} bg-[#fef7ed] py-20 px-6`}>
       <div className="max-w-7xl mx-auto">
         <div className="relative bg-[#fef7ed] rounded-[40px] p-16 lg:p-20 overflow-hidden">
           
