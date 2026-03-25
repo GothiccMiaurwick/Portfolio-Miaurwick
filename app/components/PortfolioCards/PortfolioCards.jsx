@@ -41,6 +41,15 @@ export default function PortfolioCards() {
       tags: ["HTML", "Tailwind CSS", "TypeScript"],
       color: "#3b8a58",
     },
+    {
+      id: 4,
+      title: "Albion Party Builds",
+      description:
+        "Interactive tool for creating and sharing party builds for Albion Online.",
+      url: "https://albion-content-builds.vercel.app/",
+      tags: ["Next.js", "React", "Tailwind CSS"],
+      color: "#6366f1",
+    },
   ];
 
   const getScreenshotUrl = (url) => {

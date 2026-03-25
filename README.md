@@ -39,6 +39,13 @@ Here are some of my latest projects showcased in this portfolio:
 - **Tech Stack:** HTML, Tailwind CSS, TypeScript
 - **Live Demo:** [Calorie Tracker](https://gothiccmiaurwick.github.io/Calorie-tracker/)
 
+### 4. Albion Party Builds
+
+**Description:** Interactive tool for creating and sharing party builds for Albion Online.
+
+- **Tech Stack:** Next.js, React, Tailwind CSS
+- **Live Demo:** [Albion Party Builds](https://albion-content-builds.vercel.app/)
+
 ## 📫 Connect with Me
 
 - [GitHub](https://github.com/GothiccMiaurwick)
